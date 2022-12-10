@@ -36,7 +36,7 @@ html{
     color:white;
 }
 .navbar ul li a:hover{
-    border-bottom: 2px solid yellow;
+    border-bottom: 2px solid rgb(190, 208, 26);
 }
 
 /* Home Section */
@@ -91,6 +91,7 @@ html{
     
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
+    
 
 }
 
@@ -100,6 +101,7 @@ html{
     display: flex;
     flex-direction: column;
     background-color: #000000dc;
+    margin: 20px;
 }
 
 .column{
