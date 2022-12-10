@@ -33,7 +33,7 @@ html{
 .navbar ul li a{
     padding: 5px 20px;
     text-decoration: none;
-    color:white;
+    color:rgb(169, 231, 34);
 }
 .navbar ul li a:hover{
     border-bottom: 2px solid rgb(190, 208, 26);
@@ -46,6 +46,7 @@ html{
     flex-direction: column;
     height: 650px;
     justify-content: center;
+    
     align-items: center;
     background-color: rgba(0,0,0,0.5);
 }
