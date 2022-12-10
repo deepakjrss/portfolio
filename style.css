@@ -55,7 +55,7 @@ html{
     position: absolute;
     top: 0;
     left: 0;
-    background: url('/bg6.JPEG') no-repeat center center/cover;
+    background: url('/bg7.JPEG') no-repeat center center/cover;
     height: 700px;
     width: 100%;
     z-index: -1;
@@ -114,7 +114,7 @@ html{
 .box{
     height: 200px;
     width: 500px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: white;
     border-radius: 20px;
     margin: 10px;
     padding: 20px;
@@ -127,7 +127,7 @@ html{
 }
 
 .box p{
-    color:rgba(202, 196, 197, 0.933);
+    color:rgba(62, 19, 215, 0.933);
     font-size: 1.1rem;
 
 }
@@ -166,6 +166,7 @@ html{
 }
 .name p{
     font-size: 1.2rem;
+    color:rgb(190, 208, 26);
 }
 
 /* contact section */
