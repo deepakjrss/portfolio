@@ -88,6 +88,7 @@ html{
 /* portfolio section  */
 #portfolio{
     display: flex;
+    
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
 
@@ -118,13 +119,13 @@ html{
 }
 
 .box h2{
-    color: yellowgreen;
+    color: rgb(213, 9, 9);
     font-size: 2rem;
     margin-bottom: 40px;
 }
 
 .box p{
-    color: white;
+    color:rgba(202, 196, 197, 0.933);
     font-size: 1.1rem;
 
 }
@@ -139,7 +140,7 @@ html{
 }
 
 #about h1{
-    color: black;
+    color: rgb(119, 14, 247);
     margin: 55px;
 
 }
@@ -170,7 +171,7 @@ html{
 #contact{
     display: flex;
     flex-direction: column;
-    background-color: #000000dc;
+    background-color: #db86bfdc;
 }
 
 #contact h1{
